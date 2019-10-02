@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Coffee Finder App</string>
+    <string name="txtName">Dunkin\'</string>
+    <string name="txtName1">Mc Donald\'s</string>
+    <string name="txtName2">Starbucks</string>
+    <string name="txtName3">Wawa</string>
+    <string name="description">imgDunkin</string>
+    <string name="description1">imgMcDonald\'s</string>
+    <string name="description2">imgStarbucks</string>
+    <string name="description3">imgWawa</string>
+    <string name="txtAddress">"8595 Seminole Blvd, Seminole, FL "</string>
+    <string name="txtAddress1">"8901 Park Blvd N, Seminole, FL "</string>
+    <string name="txtAddress2">"7398 Seminole Blvd, Seminole, FL "</string>
+    <string name="txtAddress3">8800 Park Blvd N, Seminole, FL</string>
+</resources>
